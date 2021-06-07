@@ -11,3 +11,4 @@ based on snap thinger server
 
 # Dokumentation
 ![dashboard](https://github.com/didikw/envi_ruang_server_thinger/blob/main/envi_ruang_server.JPG)
+![embeded](https://github.com/didikw/envi_ruang_server_thinger/blob/main/embeded_envi.JPG)
