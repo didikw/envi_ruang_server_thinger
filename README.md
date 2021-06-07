@@ -8,3 +8,6 @@ based on snap thinger server
 4. DHT11 or DHT 22 and the header file "DHT.h"
 5. ESP8266 and Thinger header file "ThingerESP8266.h"
 6. WiFi connection
+
+# Dokumentation
+![dashboard](https://github.com/didikw/envi_ruang_server_thinger/blob/main/envi_ruang_server.JPG)
