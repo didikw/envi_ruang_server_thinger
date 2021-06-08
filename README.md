@@ -9,6 +9,6 @@ based on snap thinger server
 5. ESP8266 and Thinger header file "ThingerESP8266.h"
 6. WiFi connection
 
-# Dokumentation
+# Documentation
 ![dashboard](https://github.com/didikw/envi_ruang_server_thinger/blob/main/envi_ruang_server.JPG)
 ![embeded](https://github.com/didikw/envi_ruang_server_thinger/blob/main/embeded_envi.JPG)
